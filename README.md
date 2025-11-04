@@ -1,4 +1,4 @@
-Olá, me chamo Carlos Eduardo, tenho 19 anos e
+Olá, me chamo Carlos Eduardo, tenho 20 anos e
 Curso Engenharia de Software. Tenho como
 objetivo crescer profissionalmente na área da
 tecnologia. Estou empolgado com o que o futuro
