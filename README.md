@@ -27,8 +27,8 @@ Também desenvolvo aplicações **frontend e mobile** utilizando **Angular** e *
   Aplicação mobile integrada a backend REST, focada em organização de código e experiência do usuário.
 
 ## 🎯 Objetivo
-Busco oportunidades como **Estagiário** ou **Desenvolvedor Júnior**, com interesse em backend e full stack, onde eu possa evoluir tecnicamente, aplicar boas práticas de desenvolvimento e contribuir com soluções de qualidade.
+Busco oportunidades como Estagiário ou Desenvolvedor Júnior, com interesse em backend e full stack, onde eu possa evoluir tecnicamente, aplicar boas práticas de desenvolvimento e contribuir com soluções de qualidade.
 
 ## 📫 Contato
-- LinkedIn: (seu link)
-- Email: (seu email)
+- Whatsapp (62)99559-4705  
+- Email: ca4220@gmail.com
