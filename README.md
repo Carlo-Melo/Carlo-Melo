@@ -1,4 +1,4 @@
-# Olá, sou Carlos Eduardo 👋
+# Olá, sou Carlos Eduardo
 
 **Desenvolvedor Full Stack Júnior | Angular · TypeScript · Python · Java**
 
